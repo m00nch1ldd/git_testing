@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shwetha/tf2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/shwetha/ros2_ws/install/talker_listener/lib/python3.10/site-packages",
+        "/home/shwetha/task6_ws/install/simulator/local/lib/python3.10/dist-packages",
+        "/home/shwetha/assemble_ws/install/bt_sim_turtle/lib/python3.10/site-packages",
+        "/home/shwetha/turtlepong_ws/install/game/lib/python3.10/site-packages",
+        "/home/shwetha/ctm_ws/install/capture_the_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shwetha/tf2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/shwetha/ros2_ws/install/talker_listener/lib/python3.10/site-packages",
+        "/home/shwetha/task6_ws/install/simulator/local/lib/python3.10/dist-packages",
+        "/home/shwetha/assemble_ws/install/bt_sim_turtle/lib/python3.10/site-packages",
+        "/home/shwetha/turtlepong_ws/install/game/lib/python3.10/site-packages",
+        "/home/shwetha/ctm_ws/install/capture_the_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
